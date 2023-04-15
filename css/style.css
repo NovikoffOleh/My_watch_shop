@@ -1794,6 +1794,7 @@ body.ie ._ibg img {
 }
 
 .footer__info {
+  margin: 0 auto;
   color: #bb9c66;
 }
 
